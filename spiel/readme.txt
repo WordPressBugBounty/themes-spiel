@@ -12,6 +12,12 @@ Spiel is a game magazine theme. The rich and dense old-school homepage layout co
 
 == Changelog ==
 
+= 1.0.10 =
+* Removing .gitkeep files
+
+= 1.0.9 =
+* Spiel: replace Manrope italic font files with fixed versions restoring corrupted digit glyphs
+
 = 1.0.8 =
 * Spiel: update header template part. (#8457)
 

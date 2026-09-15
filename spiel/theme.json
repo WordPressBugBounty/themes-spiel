@@ -221,7 +221,7 @@
 							"fontWeight": "200",
 							"fontStyle": "italic",
 							"src": [
-								"file:./assets/fonts/manrope_italic_200.ttf"
+								"file:./assets/fonts/manrope-extralightitalic.ttf"
 							]
 						},
 						{
@@ -229,7 +229,7 @@
 							"fontWeight": "300",
 							"fontStyle": "italic",
 							"src": [
-								"file:./assets/fonts/manrope_italic_300.ttf"
+								"file:./assets/fonts/manrope-lightitalic.ttf"
 							]
 						},
 						{
@@ -237,7 +237,7 @@
 							"fontWeight": "400",
 							"fontStyle": "italic",
 							"src": [
-								"file:./assets/fonts/manrope_italic_400.ttf"
+								"file:./assets/fonts/manrope-italic.ttf"
 							]
 						},
 						{
@@ -245,7 +245,7 @@
 							"fontWeight": "500",
 							"fontStyle": "italic",
 							"src": [
-								"file:./assets/fonts/manrope_italic_500.ttf"
+								"file:./assets/fonts/manrope-mediumitalic.ttf"
 							]
 						},
 						{
@@ -253,7 +253,7 @@
 							"fontWeight": "600",
 							"fontStyle": "italic",
 							"src": [
-								"file:./assets/fonts/manrope_italic_600.ttf"
+								"file:./assets/fonts/manrope-semibolditalic.ttf"
 							]
 						},
 						{
@@ -261,7 +261,7 @@
 							"fontWeight": "700",
 							"fontStyle": "italic",
 							"src": [
-								"file:./assets/fonts/manrope_italic_700.ttf"
+								"file:./assets/fonts/manrope-bolditalic.ttf"
 							]
 						},
 						{
@@ -269,7 +269,7 @@
 							"fontWeight": "800",
 							"fontStyle": "italic",
 							"src": [
-								"file:./assets/fonts/manrope_italic_800.ttf"
+								"file:./assets/fonts/manrope-extrabolditalic.ttf"
 							]
 						},
 						{
